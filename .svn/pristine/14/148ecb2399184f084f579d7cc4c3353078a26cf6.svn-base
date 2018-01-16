@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/white"
+    android:id="@+id/parentLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/board"
+        android:orientation="vertical"
+        tools:context="lab4_204_06.uwaterloo.ca.lab4_204_06.MainActivity">
+
+
+        <!--<EditText
+            android:id="@+id/editTextDialogUserInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorPrimaryDark">
+
+        </EditText>-->
+
+    </RelativeLayout>
+
+</RelativeLayout>

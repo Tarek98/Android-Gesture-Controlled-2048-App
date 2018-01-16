@@ -15,7 +15,7 @@ The team I collaborated with to develop this prototype were two of my class mate
 Steven Xu (email1) and Steven Steven (email2)
 We used Subversion for version control and source code management at the time of developing the project.
 
-If you would like to try out the app, download the APK from \app\build\outputs\apk and install it on your Android phone. 
+If you would like to try out the app, download the APK from the root (app-debug.apk) and install it on your Android phone. 
 For more instructions on how to do this, please refer to: [Install-apk-files-on-android](https://airmore.com/install-apk-files-on-android.html)
 
 This app is optimized for 1080p display so please ensure your screen resolution is set accordingly before testing it out.

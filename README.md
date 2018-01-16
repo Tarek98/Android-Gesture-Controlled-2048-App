@@ -17,4 +17,4 @@ We used Subversion for version control and source code management at the time of
 If you would like to try out the app, download the APK from the root (app-debug.apk) and install it on your Android phone. 
 For more instructions on how to do this, please refer to: [Install-apk-files-on-android](https://airmore.com/install-apk-files-on-android.html)
 
-This app is optimized for 2560x1440 display so please ensure your screen resolution is set accordingly before testing it out.
+This app is optimized for 2560+ x 1440+ display so please ensure your screen resolution is set accordingly before testing it out.

@@ -7,12 +7,11 @@ played by swiping the screen left,right,up, or down (in any direction) to move t
 version uses the hand-gestures of the user to determine the movement of the blocks. For example, if the user shakes their phone
 to the right, the sensors inside the phone detect this and all blocks move to the right to occupy empty cells.
 
-The app was developed throughout the University of Waterloo's programming labs as a part of the embedded systems course which
-covered the fundamentals of Java development on Android Studio and the implementation of event handlers according to multiple
-sensors on an Android smartphone.
+The app was developed from the ground up throughout the University of Waterloo's programming labs as a part of the embedded systems course which covered the fundamentals of Java development on Android Studio and the implementation of event handlers according to multiple sensors on an Android smartphone.
 
 The team I collaborated with to develop this prototype were two of my class mates in Computer Engineering at Waterloo:
-Steven Xu (email1) and Steven Steven (email2)
+- s3@edu.uwaterloo.ca : Steven Steven
+- sfxu@edu.uwaterloo.ca : Steven Xu
 We used Subversion for version control and source code management at the time of developing the project.
 
 If you would like to try out the app, download the APK from the root (app-debug.apk) and install it on your Android phone. 

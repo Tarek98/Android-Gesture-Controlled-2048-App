@@ -18,5 +18,5 @@ The team I collaborated with to develop this prototype were two of my class mate
 - s3@edu.uwaterloo.ca : Steven Steven
 - sfxu@edu.uwaterloo.ca : Steven Xu
 
-We used SubVersion for version control and source code management at the time of developing the project.
+We used **SubVersion for version control** and source code management at the time of developing the project.
 

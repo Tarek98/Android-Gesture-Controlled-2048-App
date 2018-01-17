@@ -17,4 +17,4 @@ The team I collaborated with to develop this prototype were two of my class mate
 - sfxu@edu.uwaterloo.ca : Steven Xu
 We used Subversion for version control and source code management at the time of developing the project.
 
-This app is **optimized for 2560+ x 1440+ display so please ensure your screen resolution is set accordingly** before testing it out.
+This app is **optimized for 2560+ x 1440+ display so please ensure your screen resolution is set accordingly** before testing it.

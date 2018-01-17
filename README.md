@@ -12,7 +12,7 @@ For more instructions on how to do this from your PC, please refer to: [Install-
 
 This app is **optimized for 2560+ x 1440+ display so please ensure your screen resolution is set accordingly** before testing it.
 
-The app was developed from the ground up throughout the University of Waterloo's programming labs as a part of the embedded systems course which covered the fundamentals of Java development on Android Studio and the implementation of event handlers according to multiple sensors on an Android smartphone.
+The app was developed from the ground up throughout the University of Waterloo's programming labs as a part of the embedded systems course which covered the fundamentals of Java development on Android Studio and the implementation of event handlers according to multiple sensors on an Android smartphone. **The source code for the game loop and main game logic is found under: /app/src/main/java/lab4_204_06/uwaterloo/ca/lab4_204_06/**
 
 The team I collaborated with to develop this prototype were two of my class mates in Computer Engineering at Waterloo:
 - s3@edu.uwaterloo.ca : Steven Steven

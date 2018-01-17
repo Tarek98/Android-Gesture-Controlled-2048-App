@@ -1,10 +1,6 @@
 # Hand-Gesture 2048 Android Game
 
-Welcome,
-
-Here, you will find the Android Studio Project for a revamped version of the popular "2048" game. The original 2048 game is
-played by swiping the screen in any direction (e.g. left) to move the nummerical blocks. However, this revamped
-version uses the hand-gestures of the user to determine the movement of the blocks. For example, if the user shakes their phone
+Welcome. Here, you will find the Android Studio Project for a revamped version of the popular "2048" game. The original 2048 game is played by swiping the screen in any direction (e.g. left) to move the nummerical blocks. However, this revamped version uses the hand-gestures of the user to determine the movement of the blocks. For example, if the user shakes their phone
 to the right, the sensors inside the phone detect this and all blocks move to the right to occupy empty cells.
 
 **If you would like to try out the app, download the APK from the root (app-debug.apk) on your Android phone. 

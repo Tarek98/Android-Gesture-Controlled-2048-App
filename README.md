@@ -15,6 +15,7 @@ For more instructions on how to do this from your PC, please refer to: [Install-
 The team I collaborated with to develop this prototype were two of my class mates in Computer Engineering at Waterloo:
 - s3@edu.uwaterloo.ca : Steven Steven
 - sfxu@edu.uwaterloo.ca : Steven Xu
+
 We used Subversion for version control and source code management at the time of developing the project.
 
 This app is **optimized for 2560+ x 1440+ display so please ensure your screen resolution is set accordingly** before testing it.

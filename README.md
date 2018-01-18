@@ -4,7 +4,7 @@ Welcome. Here, you will find the Android Studio Project for a revamped version o
 to the right, the sensors inside the phone detect this and all blocks move to the right to occupy empty cells.
 
 If you would like to **try out the app, download the APK from the root (app-debug.apk) on your Android phone**. 
-For instructions on how to do this from your PC, please refer to: [Install-apk-files-on-android](https://airmore.com/install-apk-files-on-android.html). **It's easier to download it directly from your smartphone** however. The app is installed as "Lab4_204_06".
+For instructions on how to do this from your PC, please refer to: [Install-apk-files-on-android](https://airmore.com/install-apk-files-on-android.html). **It's easier to download it directly from your smartphone** through GitHub's desktop site however. The app is installed as "Lab4_204_06".
 
 This app is **optimized for _2560+_ x _1440+_ display so please ensure your screen resolution is set accordingly** before testing it.
 
